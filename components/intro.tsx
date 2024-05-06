@@ -18,7 +18,7 @@ const {setActiveSection, setTimeOfLastClick} = useActionSectionContext();
  
  
   return (
-    <section ref={ref} id="home" className="z-[-10] mb-28 w-full sm:max-w-[50rem]  sm:mb-0 scroll-mt-[100rem]">
+    <section ref={ref} id="home" className="z-[1] mb-28 w-full sm:max-w-[50rem]  sm:mb-0 scroll-mt-[100rem]">
       <div className="flex items-center justify-center">
         <div className="relative">
           <motion.div className="z-10"
@@ -80,7 +80,7 @@ const {setActiveSection, setTimeOfLastClick} = useActionSectionContext();
           className="group flex items-center justify-center px-7 py-3 gap-2
             bg-gray-900 text-white rounded-full outline-none
             focus:scale-110 hover:scale-110 active:scale-105 hover:bg-gray-950
-            transition
+            transition 
             "
             onClick={()=>{
               setActiveSection("Contact");

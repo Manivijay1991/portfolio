@@ -21,7 +21,7 @@ export default function About() {
             <span className="font-bold">electronics & communication</span> in 2013. After graduation, 
             I started working in software industry. Since 2013, I worked in different techonologies
             and played different roles. I always feel good when I could{"  "}
-            <span className="font-bold">slove a problem or learn something new</span>{" "}
+            <span className="font-bold">solve a problem or learn something new</span>{" "}
             which doesn't have to be always a new techonology.
         </p>
         <p>
@@ -31,7 +31,7 @@ export default function About() {
         <span className="underline">Web automation, process automation,
         Jboss BPMN workflow engines, Drools rules engines and various frameworks.</span>{" "}
         I have proven track record in{" "}
-        <span className="italic">optimizing application performance, leading cross-functional teams</span>
+        <span className="italic">optimizing application performance, leading cross-functional teams</span>{" "}
         <span className="italic">and delivering high-quality solutions.</span> Looking to utilize skills 
          and expertise to foster innovation and drive success within a new organization.
         </p>
